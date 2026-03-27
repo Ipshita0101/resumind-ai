@@ -236,7 +236,7 @@ html, body, .stApp {
 /* ── "Browse files" button ── */
 [data-testid="baseButton-secondary"] {
     background: rgba(57,255,20,0.08) !important;
-    color: #39ff14 !important;
+    color: #000000 !important;
     border: 1px solid rgba(57,255,20,0.35) !important;
     border-radius: 8px !important;
     font-family: var(--font-mono) !important;
