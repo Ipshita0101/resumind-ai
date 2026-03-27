@@ -6,7 +6,7 @@
 
 ## 🌟 Live Demo
 
-👉 https://your-app-link.streamlit.app
+👉 (https://resumind-ai-koxtuszgapswsb42y7j2fq.streamlit.app/)
 
 ---
 
